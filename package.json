@@ -1,0 +1,20 @@
+{
+  "name": "pratikum-kk4c-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHAFIQHLFKML21/kk4c-uh-kelas-12.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHAFIQHLFKML21/kk4c-uh-kelas-12/issues"
+  },
+  "homepage": "https://github.com/SHAFIQHLFKML21/kk4c-uh-kelas-12#readme"
+}
